@@ -34,24 +34,29 @@ JavaScript • React • Leaflet • Django • FastAPI • HTML/CSS
 **Data & Tools**
 PostgreSQL/PostGIS • Git • GitHub • Jupyter • VS Code
 
-### 🚀 Selected Projects
+### 🚀 Selected Public Projects
 
-| Project                                       | Description                                                                                                                                                     |
-| --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🌲 **Forest Biomass & Carbon Mapping**        | Multisource geospatial analysis combining LiDAR-derived features, Sentinel-2 imagery and machine learning for aboveground biomass and carbon estimation.        |
-| 🛰️ **Deep Learning for Topographic Mapping** | Semantic segmentation of aerial imagery using U-Net and DeepLabv3+ for automated topographic mapping.                                                           |
-| 🤖 **Environmental AI Assistant**             | Geospatial AI assistant for environmental monitoring, combining LLMs, RAG and geospatial analytical tools for drought, land-cover and environmental indicators. |
-| ☁️ **3D Point-Cloud Registration**            | From-scratch implementation of point-to-point ICP using NumPy and Open3D, with KD-tree correspondence search and SVD-based transformation estimation.           |
-| 🗺️ **Interactive Environmental Web GIS**     | Web GIS platform combining React, Leaflet and geospatial data to visualize environmental initiatives and spatial information.                                   |
+| Project                                | Description                                                                                                                                              |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🌲 **Forest Biomass & Carbon Mapping** | Multisource geospatial analysis combining LiDAR-derived features, Sentinel-2 imagery and machine learning for aboveground biomass and carbon estimation. |
+| ☁️ **3D Point-Cloud Registration**     | From-scratch implementation of point-to-point ICP using NumPy and Open3D, with KD-tree correspondence search and SVD-based transformation estimation.    |
+| 🗺️ **Sijoumi Environmental Web GIS**  | Interactive web GIS platform combining React, Leaflet and geospatial data to visualize and locate environmental initiatives.                             |
+| 🤖 **Machine Learning Dashboard**      | Interactive Streamlit application for comparing regression models and evaluating predictive performance.                                                 |
+
+### 💼 Professional Experience
+
+**Environmental Geospatial AI — Sahara and Sahel Observatory (OSS)**
+Contributed to the development and improvement of a geospatial AI assistant for environmental monitoring, working with LLMs, retrieval-augmented generation, environmental indicators and geospatial analytical tools.
+
+**Deep Learning for Topographic Mapping — ATGT Tunisie**
+Developed and evaluated deep-learning approaches for automated topographic mapping from aerial imagery, including semantic segmentation with U-Net and DeepLabv3+.
+
+*Selected internship projects are not publicly available due to data and/or organizational restrictions.*
 
 ### 📌 Currently Exploring
 
-Deep learning for Earth Observation • Geospatial AI • Multisource data fusion • Computer Vision • Environmental monitoring
+Geospatial AI • Deep Learning for Earth Observation • Multisource Remote Sensing • Computer Vision • Environmental Monitoring
 
 ### 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/zeineb-hachani/) • [GitHub](https://github.com/Zeineb19)
-
----
-
-> **Interested in geospatial technologies that turn Earth Observation and spatial data into actionable environmental insights.**
