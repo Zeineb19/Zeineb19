@@ -43,6 +43,10 @@
 
 ### 📊 GitHub Stats & Top Languages
 
-![Zeineb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeineb19&show_icons=true&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeineb19&show_icons=true&theme=radial" alt="Zeineb's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeineb19&layout=compact&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeineb19&layout=compact&theme=radial" alt="Top Languages" />
+</p>
