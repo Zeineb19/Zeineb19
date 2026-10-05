@@ -16,7 +16,7 @@
 ### 🛠️ Tech Stack & Tools
 
 **Geospatial & Remote Sensing**
-`QGIS` • `ArcGIS` • `GDAL` • `Rasterio` • `GeoPandas` • `Google Earth Engine` • `Sentinel-2 / Landsat Data`
+`QGIS` • `ArcGIS` • `GDAL` • `Rasterio` • `GeoPandas` • `Google Earth Engine`• `Cloud Compare` • • `Sentinel-2 / Landsat Data`
 
 **Machine Learning & Data Science**
 `Python` • `PyTorch` • `TensorFlow` • `Scikit-Learn` • `NumPy` • `Pandas` • `OpenCV`
@@ -33,13 +33,16 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project Name 1](https://github.com/Zeineb19/repo-name)** | Land cover classification using Sentinel-2 imagery and deep learning models. | `Python`, `PyTorch`, `GDAL`, `QGIS` |
-| **[Project Name 2](https://github.com/Zeineb19/repo-name)** | Interactive web-based GIS map for spatial data visualization and analysis. | `React`, `Leaflet`, `GeoPandas`, `PostGIS` |
-| **[Project Name 3](https://github.com/Zeineb19/repo-name)** | Predictive spatial analytics pipeline for environmental monitoring. | `Python`, `Scikit-Learn`, `GEE` |
+| **[Biomass and carbon stocks assesment ](https://github.com/Zeineb19/repo-name)** | Geospatial data fusion using Sentinel-2 imagery, Lidar derived features and and multi model evaluation (MLP,Catboost,XGboost)|Tree segmentation/Individualisation|. | `Python`, `PyTorch`, `GDAL`, `QGIS` ,`CloudCompare`|
+| **[Interactive web-based GIS map](https://github.com/Zeineb19/repo-name)** | Interactive web-based GIS map for spatial data visualization and analysis. | `Javascript`, `Leaflet`, `GeoPandas`, `PostGIS` |
+| **[ICP algorythm](https://github.com/Zeineb19/repo-name)** | Predictive spatial analytics pipeline for environmental monitoring. | `Python`, `Scikit-Learn`, `GEE` |
 
 ---
 
 ### 📈 GitHub Stats
 
+### 📊 GitHub Stats & Top Languages
+
 ![Zeineb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeineb19&show_icons=true&theme=radial)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeineb19&layout=compact&theme=radial)
