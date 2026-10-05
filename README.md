@@ -1,48 +1,57 @@
-# Hi there, I'm Hachani Zeineb 👋
+# Hi, I'm Zeineb Hachani 👋
 
-🎓 **Geomatics Engineering Student** passionate about leveraging **Machine Learning**, **Remote Sensing**, and **Spatial Data Science** to solve real-world environmental and spatial problems.
+🎓 **Geomatics Engineering Student | Geospatial AI • Remote Sensing • Environmental Monitoring**
 
----
+I am a third-year Geomatics Engineering student at the **Manouba School of Engineering (MSE), Tunisia**, interested in applying geospatial data, Earth Observation and artificial intelligence to environmental and spatial challenges.
 
-### 🚀 About Me
+My work focuses on combining **remote sensing, GIS, machine learning, deep learning and computer vision** to transform spatial data into useful environmental information.
 
-- 🔬 Currently focusing on **Satellite Image Analysis**, **Deep Learning**, and **GIS Web Applications**.
-- 🛠️ Building tools that merge spatial data processing with modern machine learning frameworks.
-- 💡 Interested in Earth Observation, spatial analytics, computer vision, and web development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zeineb-hachani-6a991b2b7/)
+### 🔬 Areas of Interest
 
----
+* 🌍 Earth Observation & Remote Sensing
+* 🛰️ Satellite Image Analysis
+* 🌲 Forest Monitoring & Carbon Mapping
+* 🌊 Environmental Monitoring & Climate Resilience
+* 🤖 Geospatial AI & Machine Learning
+* 👁️ Computer Vision & Image Segmentation
+* 🗺️ GIS & Spatial Data Science
+* ☁️ Geospatial Web Applications
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Skills
 
 **Geospatial & Remote Sensing**
-`QGIS` • `ArcGIS` • `GDAL` • `Rasterio` • `GeoPandas` • `Google Earth Engine`• `Cloud Compare` • • `Sentinel-2 / Landsat Data`
+QGIS • ArcGIS Pro • Google Earth Engine • GDAL • Rasterio • GeoPandas • CloudCompare • LiDAR • Sentinel-2
 
-**Machine Learning & Data Science**
-`Python` • `PyTorch` • `TensorFlow` • `Scikit-Learn` • `NumPy` • `Pandas` • `OpenCV`
+**Machine Learning & Computer Vision**
+Python • NumPy • Pandas • Scikit-learn • XGBoost • CatBoost • U-Net • DeepLabv3+
 
-**Web Development & Databases**
-`JavaScript` • `React` • `HTML/CSS` • `Node.js` • `PostgreSQL / PostGIS` • `Flask / FastApi`
+**3D & Point Clouds**
+Open3D • Point-cloud processing • ICP • LiDAR-derived products
 
-**Developer Tools**
-`Git` • `GitHub` • `Jupyter Notebooks` • `VS Code`
+**Web GIS & Development**
+JavaScript • React • Leaflet • Django • FastAPI • HTML/CSS
+
+**Data & Tools**
+PostgreSQL/PostGIS • Git • GitHub • Jupyter • VS Code
+
+### 🚀 Selected Projects
+
+| Project                                       | Description                                                                                                                                                     |
+| --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🌲 **Forest Biomass & Carbon Mapping**        | Multisource geospatial analysis combining LiDAR-derived features, Sentinel-2 imagery and machine learning for aboveground biomass and carbon estimation.        |
+| 🛰️ **Deep Learning for Topographic Mapping** | Semantic segmentation of aerial imagery using U-Net and DeepLabv3+ for automated topographic mapping.                                                           |
+| 🤖 **Environmental AI Assistant**             | Geospatial AI assistant for environmental monitoring, combining LLMs, RAG and geospatial analytical tools for drought, land-cover and environmental indicators. |
+| ☁️ **3D Point-Cloud Registration**            | From-scratch implementation of point-to-point ICP using NumPy and Open3D, with KD-tree correspondence search and SVD-based transformation estimation.           |
+| 🗺️ **Interactive Environmental Web GIS**     | Web GIS platform combining React, Leaflet and geospatial data to visualize environmental initiatives and spatial information.                                   |
+
+### 📌 Currently Exploring
+
+Deep learning for Earth Observation • Geospatial AI • Multisource data fusion • Computer Vision • Environmental monitoring
+
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/zeineb-hachani/) • [GitHub](https://github.com/Zeineb19)
 
 ---
 
-### 📌 Highlighted Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Biomass and carbon stocks assesment ](https://github.com/Zeineb19/ABGbiomass_Carbon_Dashboard )** | Geospatial data fusion using Sentinel-2 imagery, Lidar derived features and and multi model evaluation (MLP,Catboost,XGboost)|Tree segmentation/Individualisation|. | `Python`, `PyTorch`, `GDAL`, `QGIS` ,`CloudCompare`|
-| **[Interactive web-based GIS map](https://github.com/Zeineb19/django )** | Interactive web-based GIS map for spatial data visualization and analysis. | `Javascript`, `Leaflet`, `GeoPandas`, `PostGIS` |
-| **[ICP algorythm](https://github.com/Zeineb19/icp-point-cloud-registration )** | Predictive spatial analytics pipeline for environmental monitoring. | `Python`, `Scikit-Learn`, `GEE` |
-
----
-
-### 📈 GitHub Stats
-
-### 📊 GitHub Stats & Top Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+> **Interested in geospatial technologies that turn Earth Observation and spatial data into actionable environmental insights.**
