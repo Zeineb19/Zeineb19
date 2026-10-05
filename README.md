@@ -33,9 +33,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Biomass and carbon stocks assesment ](https://github.com/Zeineb19/repo-name)** | Geospatial data fusion using Sentinel-2 imagery, Lidar derived features and and multi model evaluation (MLP,Catboost,XGboost)|Tree segmentation/Individualisation|. | `Python`, `PyTorch`, `GDAL`, `QGIS` ,`CloudCompare`|
-| **[Interactive web-based GIS map](https://github.com/Zeineb19/repo-name)** | Interactive web-based GIS map for spatial data visualization and analysis. | `Javascript`, `Leaflet`, `GeoPandas`, `PostGIS` |
-| **[ICP algorythm](https://github.com/Zeineb19/repo-name)** | Predictive spatial analytics pipeline for environmental monitoring. | `Python`, `Scikit-Learn`, `GEE` |
+| **[Biomass and carbon stocks assesment ](https://github.com/Zeineb19/ABGbiomass_Carbon_Dashboard )** | Geospatial data fusion using Sentinel-2 imagery, Lidar derived features and and multi model evaluation (MLP,Catboost,XGboost)|Tree segmentation/Individualisation|. | `Python`, `PyTorch`, `GDAL`, `QGIS` ,`CloudCompare`|
+| **[Interactive web-based GIS map](https://github.com/Zeineb19/django )** | Interactive web-based GIS map for spatial data visualization and analysis. | `Javascript`, `Leaflet`, `GeoPandas`, `PostGIS` |
+| **[ICP algorythm](https://github.com/Zeineb19/icp-point-cloud-registration )** | Predictive spatial analytics pipeline for environmental monitoring. | `Python`, `Scikit-Learn`, `GEE` |
 
 ---
 
